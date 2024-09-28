@@ -32,5 +32,5 @@ Recommendation: Identify key elements such as top actors and prime release perio
 Movies offered in multiple languages have a better chance of global success.
 Recommendation: Provide subtitles and dubbed versions of the movie in key global languages for broader accessibility.
 * **Technologies Used**
-SQL for querying and analyzing the dataset.
-PowerPoint for presenting key insights and findings.
+* 1) SQL for querying and analyzing the dataset.
+* 2) PowerPoint for presenting key insights and findings.
