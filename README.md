@@ -1,12 +1,12 @@
 
 # Movie Recommendation System – Data Analysis for RSVP Movies
-* Project Overview
+* **Project Overview**
 RSVP Movies, an Indian film production company, plans to release a movie for a global audience and has approached this project to analyze movie trends from the past three years. The goal is to use data analytics to help guide decision-making for their upcoming release. This project focuses on analyzing various factors such as gross income, genre popularity, and movie duration using SQL, allowing us to generate insights and recommend strategies for targeting a global audience.
 
-* Problem Statement
+* **Problem Statement**
 The objective of this project is to analyze movie data from the past three years provided by RSVP Movies. The analysis is essential for identifying patterns, trends, and key factors that influence the success of movies. The insights gained will help RSVP Movies in making data-driven decisions for their global movie release.
 
-* Data Description
+* **Data Description**
 The dataset used for this project contains the following tables:
 
 movie – Contains details such as title, release year, date published, duration, country, worldwide gross income, languages, and production company.
@@ -15,7 +15,7 @@ ratings – Contains user ratings and reviews of the movies.
 role_mapping – Maps different personnel to their roles in the movie production process (e.g., actors, directors).
 genre – Contains information about the genres associated with the movies.
 director_mapping – Contains mapping details for directors assigned to movies.
-* Key Findings
+* **Key Findings**
 1. Yearly Movie Release Trends:
 The frequency of movie releases fluctuates, possibly due to market conditions or other external factors.
 Recommendation: Analyze peak movie release periods to align the upcoming movie with optimal release times.
@@ -31,6 +31,6 @@ Recommendation: Identify key elements such as top actors and prime release perio
 5. Language Distribution:
 Movies offered in multiple languages have a better chance of global success.
 Recommendation: Provide subtitles and dubbed versions of the movie in key global languages for broader accessibility.
-* Technologies Used
+* **Technologies Used**
 SQL for querying and analyzing the dataset.
 PowerPoint for presenting key insights and findings.
